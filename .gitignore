@@ -1,0 +1,4 @@
+py3-tensorflow/
+__pycache__
+requirements.txt
+cifar-10-python.tar.gz
