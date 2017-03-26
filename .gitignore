@@ -2,5 +2,8 @@ py3-tensorflow/
 __pycache__
 requirements.txt
 cifar-10-python.tar.gz
+<<<<<<< HEAD
 cifar-10-batches-py/
 *.p
+=======
+>>>>>>> c7ccc18d395cde4703176ff8943073212f5ffa55
